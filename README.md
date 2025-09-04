@@ -46,5 +46,4 @@ Enter task description: Buy groceries
 Task added!
 ```
 
-## License
-MIT
+
